@@ -1,0 +1,9 @@
+{
+	"name": "practicalsampledf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "92efd903-b605-4c9b-9bb2-7efa6f7e2bb2",
+		"tenantId": "647119b9-2120-453d-ab27-e02884c15a1b"
+	}
+}
