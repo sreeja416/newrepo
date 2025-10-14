@@ -12,7 +12,7 @@
 			},
 			{
 				"pipelineReference": {
-					"referenceName": "pipeline2",
+					"referenceName": "pl_migration",
 					"type": "PipelineReference"
 				}
 			}
