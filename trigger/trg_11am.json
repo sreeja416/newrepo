@@ -9,12 +9,6 @@
 					"referenceName": "pipeline1",
 					"type": "PipelineReference"
 				}
-			},
-			{
-				"pipelineReference": {
-					"referenceName": "pl_migration",
-					"type": "PipelineReference"
-				}
 			}
 		],
 		"type": "ScheduleTrigger",
