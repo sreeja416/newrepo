@@ -1,5 +1,5 @@
 {
-	"name": "trg_9am",
+	"name": "trg_11am",
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Started",
@@ -26,7 +26,7 @@
 				"timeZone": "India Standard Time",
 				"schedule": {
 					"minutes": [
-						55
+						0
 					],
 					"hours": [
 						11
