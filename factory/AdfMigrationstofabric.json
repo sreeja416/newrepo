@@ -1,0 +1,9 @@
+{
+	"name": "AdfMigrationstofabric",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56ba63a4-f639-45bc-91fa-b6bbf80cf332",
+		"tenantId": "647119b9-2120-453d-ab27-e02884c15a1b"
+	}
+}
