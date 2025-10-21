@@ -1,5 +1,5 @@
 {
-	"name": "DelimitedText8",
+	"name": "DelimitedText9",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "newlinkservice",
@@ -10,7 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"container": "outputfolder"
+				"fileName": "employees2.csv",
+				"container": "samplefolder"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",

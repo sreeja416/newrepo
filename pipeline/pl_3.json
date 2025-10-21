@@ -49,13 +49,13 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "DelimitedText5",
+						"referenceName": "DelimitedText9",
 						"type": "DatasetReference"
 					}
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText6",
+						"referenceName": "DelimitedText10",
 						"type": "DatasetReference"
 					}
 				]
