@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "practicalsampledf"
 		},
+		"migrationlinkedservice_connectionString": {
+			"value": ""
+		},
 		"newlinkservice_connectionString": {
 			"value": ""
 		}

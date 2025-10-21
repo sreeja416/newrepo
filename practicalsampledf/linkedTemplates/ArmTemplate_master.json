@@ -7,6 +7,10 @@
 			"metadata": "Data Factory name",
 			"defaultValue": "practicalsampledf"
 		},
+		"migrationlinkedservice_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'migrationlinkedservice'"
+		},
 		"newlinkservice_connectionString": {
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'newlinkservice'"
@@ -37,6 +41,9 @@
 				"parameters": {
 					"factoryName": {
 						"value": "[parameters('factoryName')]"
+					},
+					"migrationlinkedservice_connectionString": {
+						"value": "[parameters('migrationlinkedservice_connectionString')]"
 					},
 					"newlinkservice_connectionString": {
 						"value": "[parameters('newlinkservice_connectionString')]"
